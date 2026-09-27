@@ -77,4 +77,3 @@ this demo as a secure secret-management system.
   local HTTP server shown above.
 - For remote modes, verify the API key, model access, and browser network permissions.
 - Use Local autopilot to test gameplay without any external service.
-````
